@@ -2,9 +2,9 @@
 <img align="center" alt="LINUX" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
  <div>
-   <a href="https://github.com/GabsPorto">
+    <a href="https://github.com/GabsPorto">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabsPorto&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-   <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsPorto&layout=compact&langs_count=6&theme=merko"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsPorto&layout=compact&langs_count=6&theme=merko"/>
 </div>
 
  &nbsp;
@@ -13,7 +13,7 @@
 
 ## My Skills
 
-#### Main Stack:
+#### 🔭 I’m currently working on:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)&nbsp;
