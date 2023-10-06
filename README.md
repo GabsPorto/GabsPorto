@@ -57,5 +57,6 @@
 <a href = "mailto:g.souza673@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-porto-298329ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
-  
+
+![Snake animation](https://github.com/matias-ezequiel-correa/matias-ezequiel-correa/blob/output/github-contribution-grid-snake-dark.svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=footer"/>
